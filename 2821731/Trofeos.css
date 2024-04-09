@@ -1,0 +1,16 @@
+body{
+    background-image: url(./img/Trofeos.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-size: 60px;
+    color: greenyellow;
+}
+
+h2{
+    font-size: 40px;
+    color: white;
+}
