@@ -1,0 +1,24 @@
+.dark-mode .contenido-principal{
+    background: #353535;  
+}
+
+.dark-mode h2  {
+    color: var(--blanco);
+}
+
+.dark-mode .price {
+    color: var(--blanco);
+}
+
+.dark-mode .date-num{
+    color: white;
+}
+
+.dark-mode .date-day{
+    color: white;
+}
+
+.dark-mode .time-marker{
+    color: white;
+}
+
